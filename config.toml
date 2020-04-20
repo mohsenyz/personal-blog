@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "Mohsen yazdani"
 theme = "hugo-notepadium"
 hasCJKLanguage = true
+shamsiDateFormat = "d MMM ماه yyyy"
 
 enableRobotsTXT = true
 
@@ -20,6 +21,7 @@ noClasses = false
 unsafe = true  # enable raw HTML in Markdown
 
 [params]
+readingTime=true
 style = "auto"  # default: auto. light: light theme, dark: dark theme, auto: based on system.
 dateFormat = "Monday, January 2, 2006"  # if unset, default is "2006-01-02"
 logo = ""  # if you have a logo png
